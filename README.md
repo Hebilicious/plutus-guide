@@ -26,6 +26,7 @@
 #### Repositories
 
 - [Plutonomicon](https://github.com/Plutonomicon/plutonomicon)
+- [Plutarch](https://github.com/Plutonomicon/plutarch/)
 - [Plutus Community](https://github.com/input-output-hk/plutus-community)
 
 #### YouTube
